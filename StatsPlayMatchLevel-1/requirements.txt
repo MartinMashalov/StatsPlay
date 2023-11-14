@@ -1,0 +1,10 @@
+pydantic
+scrapy
+pandas
+itemadapter
+schedule
+usaddress
+toml
+fuzzywuzzy
+pymongo
+twisted
